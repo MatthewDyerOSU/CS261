@@ -1,5 +1,4 @@
-# Queue: A queue.
-# Your implementation should pass the tests in test_queue.py.
+# Queue
 # Matthew Dyer
 
 from llist import sllist
